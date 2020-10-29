@@ -3,10 +3,10 @@
 <head>
 	<title>ex</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="sty10.css"/>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
 
 
 </body>
-</html>		
+</html>		 
